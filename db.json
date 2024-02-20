@@ -4,17 +4,17 @@
         {
           "id":1,
           "username":"Maicol",
-          "deck":[1,2,3,4,5]
+          "deck":[1,2,3]
         },
         {
           "id":2,
           "username":"Denilson",
-          "deck":[5,4,3,2,1]
+          "deck":[5,4,3]
         },
         {
           "id":3,
           "username":"Homar",
-          "deck":[25,96,7,74,16]
+          "deck":[25,96,7]
         }
   ]
 }
